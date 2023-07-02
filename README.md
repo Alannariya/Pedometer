@@ -3,7 +3,7 @@
 App Pedometer
 QA Engineer - internship
 Azur Apps
-Main responsibilities:
+# Main responsibilities:
 - Preparing test documentation: checklists, test cases, test suits
 - Functional and non-functional testing
 - General functional regression. Verification and look around testing.
