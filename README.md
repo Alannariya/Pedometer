@@ -1,4 +1,5 @@
-The attached file contains a checklist and bug reports.
+The attached file contains a checklist and bug reports:
+
 https://docs.google.com/spreadsheets/d/1L0nttC1qFX2-iGl3uVTJ0EZIQARH4rLH/edit?pli=1#gid=483726367
 
 # App Pedometer
