@@ -1,9 +1,9 @@
-# The attached file contains a checklist and bug reports.
+The attached file contains a checklist and bug reports.
 
-App Pedometer
+# App Pedometer
 QA Engineer - internship
 Azur Apps
-# Main responsibilities:
+ Main responsibilities:
 - Preparing test documentation: checklists, test cases, test suits
 - Functional and non-functional testing
 - General functional regression. Verification and look around testing.
